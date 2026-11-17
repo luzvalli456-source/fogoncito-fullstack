@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "2 Cheese Fogon Simple",
+    "descripcion": "2 hamburguesas Cheese Fogon simple con papas incluidas",
+    "precio": 17500,
+    "categoria": "promociones"
+  },
+  {
+    "id": 2,
+    "nombre": "2 Cheese Fogon Doble",
+    "descripcion": "2 hamburguesas Cheese Fogon doble con papas incluidas",
+    "precio": 22500,
+    "categoria": "promociones"
+  },
+  {
+    "id": 3,
+    "nombre": "2 House Burger Doble",
+    "descripcion": "2 hamburguesas House Burger doble con papas incluidas",
+    "precio": 23000,
+    "categoria": "promociones"
+  },
+  {
+    "id": 4,
+    "nombre": "2 House Burger Simple",
+    "descripcion": "2 hamburguesas House Burger simple con papas incluidas",
+    "precio": 18000,
+    "categoria": "promociones"
+  },
+  {
+    "id": 5,
+    "nombre": "Brasa Bacon",
+    "descripcion": "Hamburguesa artesanal con bacon",
+    "precio": 10000,
+    "categoria": "menu"
+  },
+  {
+    "id": 6,
+    "nombre": "La Picante",
+    "descripcion": "Hamburguesa artesanal picante",
+    "precio": 10500,
+    "categoria": "menu"
+  },
+  {
+    "id": 7,
+    "nombre": "Gaseosa 500 ml",
+    "descripcion": "Bebida fría a elección",
+    "precio": 3000,
+    "categoria": "bebidas"
+  },
+  {
+    "id": 9,
+    "nombre": "Test",
+    "descripcion": "Prueba",
+    "precio": 5000,
+    "categoria": "menu"
+  },
+  {
+    "id": 10,
+    "nombre": "Test",
+    "descripcion": "Prueba",
+    "precio": 5000,
+    "categoria": "menu"
+  },
+  {
+    "id": 11,
+    "nombre": "Test",
+    "descripcion": "Prueba",
+    "precio": 5000,
+    "categoria": "menu"
+  }
+]
